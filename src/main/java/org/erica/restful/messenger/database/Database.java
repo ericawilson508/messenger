@@ -19,7 +19,7 @@ public class Database {
 		}
 		
 		public void TestDatabase() {
-			System.out.println("Testing Database wiht new values");
+			System.out.println("Testing Database wiht new values and fields");
 		}
 	}
 
