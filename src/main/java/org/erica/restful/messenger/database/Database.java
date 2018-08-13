@@ -20,7 +20,11 @@ public class Database {
 		
 		public void TestDatabase() {
 
+
 			System.out.println("values changed by mrchitiboy");
+
+			System.out.println("values changed by erica and Luther");
+
 
 			System.out.println("Testing it once more");
 		}
