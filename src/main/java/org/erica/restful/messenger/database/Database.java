@@ -17,6 +17,10 @@ public class Database {
 		public static Map<Long,Profiles> getProfiles(){
 			return profiles;
 		}
+		
+		public void TestDatabase() {
+			System.out.println("Testing Database");
+		}
 	}
 
 	
