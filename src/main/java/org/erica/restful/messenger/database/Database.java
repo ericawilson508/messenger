@@ -20,9 +20,9 @@ public class Database {
 		
 		public void TestDatabase() {
 
-			System.out.println("values changed by erica");
+			System.out.println("values changed by mrchitiboy");
 
-			System.out.println("Testing Database wiht new values and fields , ");
+			System.out.println("Testing it once more");
 		}
 	}
 
