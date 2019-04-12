@@ -27,6 +27,8 @@ public class Database {
 
 
 			System.out.println("Testing it once more");
+			System.out.println("learning to use git");
+			System.out.println("add");
 		}
 	}
 
